@@ -8,7 +8,10 @@
 
 ## 字符串和文本
 
-* [Untitled](zi-fu-chuan-he-wen-ben/untitled.md)
+* [拼接字符串](zi-fu-chuan-he-wen-ben/untitled.md)
+* [使用多个界定符分割字符串](zi-fu-chuan-he-wen-ben/shi-yong-duo-ge-jie-ding-fu-fen-ge-zi-fu-chuan.md)
+* [字符串开头或结尾匹配](zi-fu-chuan-he-wen-ben/zi-fu-chuan-kai-tou-huo-jie-wei-pi-pei.md)
+* [Untitled](zi-fu-chuan-he-wen-ben/untitled-1.md)
 
 ## 数字、日期和时间
 
